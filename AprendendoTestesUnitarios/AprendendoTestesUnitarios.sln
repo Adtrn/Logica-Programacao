@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoTestesUnitarios.ConsoleApp", "ConsoleApp\AprendendoTestesUnitarios.ConsoleApp.csproj", "{EBC36EF2-8DF3-451D-BC92-85B7B6720914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AprendendoTestesUnitarios.Tests", "Tests\AprendendoTestesUnitarios.Tests.csproj", "{30F2E4FA-0B43-4A3B-B141-03CA878CDA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBC36EF2-8DF3-451D-BC92-85B7B6720914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC36EF2-8DF3-451D-BC92-85B7B6720914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC36EF2-8DF3-451D-BC92-85B7B6720914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC36EF2-8DF3-451D-BC92-85B7B6720914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F2E4FA-0B43-4A3B-B141-03CA878CDA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F2E4FA-0B43-4A3B-B141-03CA878CDA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F2E4FA-0B43-4A3B-B141-03CA878CDA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F2E4FA-0B43-4A3B-B141-03CA878CDA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
